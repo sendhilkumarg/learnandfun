@@ -1,0 +1,61 @@
+body{
+font-family:times new roman;
+font-size:14px;
+color:#2b2c2e;
+margin:0;
+padding:0px;
+}
+nav {
+  background: -webkit-linear-gradient(#e0dcd9, #c7c6c4); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#e0dcd9, #c7c6c4); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#e0dcd9, #c7c6c4); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#e0dcd9, #c7c6c4); /* Standard syntax */
+  height:50px;
+}
+nav div {float:right;margin:15px 20px 0 0;font-size:18px;}
+.logo {
+	text-align:center;
+	padding-top:5px;
+}
+header .navbar-inverse{
+	border:none;
+}
+.logo img{
+    height: 120px;
+    margin:50px 0 0 20px;
+    width: 119px;
+}
+.nav > li > a > img {float:left;}
+.compName div{
+font-family:Comic Sans MS;
+}
+.compName div:first-child{
+	font-size:20px;
+}
+ul {
+list-style:none;
+}
+
+.container {
+	text-align:center;
+	margin:0;
+	
+}
+nav .container #bs-example-navbar-collapse-1{margin:0;}
+.container .rslides{
+	display:inline-block;
+}
+.container .navbar-header{margin:0;}
+header .navbar-inverse .navbar-nav > li > a {color:#282e2e;}
+.panelGreen{background-color:#98c83c;}
+.footerBG{
+  background: -webkit-linear-gradient(#222021, #191607); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#222021, #191607); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#222021, #191607); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#222021, #191607); /* Standard syntax */
+  height:50px;
+  width:100%;
+  position:absolute;
+  bottom:0;
+}  
+  
